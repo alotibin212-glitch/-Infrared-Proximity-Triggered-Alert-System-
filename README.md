@@ -34,4 +34,4 @@ The prototype is constructed on a solderless breadboard using the following comp
 ---
 
 ## 👤 Developer
-* Eng. Noura Abbad Al-Qathami 
+* Eng. Norah Al-Qathami 
